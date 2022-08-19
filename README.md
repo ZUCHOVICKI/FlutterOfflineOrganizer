@@ -1,4 +1,4 @@
-# test_offline
+# FlutterOfflineOrganizer
 
 A new Flutter project.
 
